@@ -3,7 +3,7 @@
 ![Dashboard Preview](screenshots/dashboard_overview.png)
 
 ## 📌 Project Summary
-A five-year (2019–2023) financial statement analysis built in Excel for Novatech Solutions, a fictional company used as a case study. The workbook consolidates the three core financial statements, horizontal and vertical analysis, a full ratio suite (profitability, liquidity, efficiency, solvency), and an interactive pivot-table dashboard to surface the underlying trends in the business's financial health.
+A five-year (2019–2023) financial statement analysis built in Excel for Novatech Solutions. The workbook consolidates the three core financial statements, horizontal and vertical analysis, a full ratio suite (profitability, liquidity, efficiency, solvency), and an interactive pivot-table dashboard to surface the underlying trends in the business's financial health.
 
 ## 🛠️ Tools Used
 - **Microsoft Excel** — 3-statement build, horizontal/vertical analysis, ratio calculations, pivot tables and charts
@@ -12,7 +12,6 @@ A five-year (2019–2023) financial statement analysis built in Excel for Novate
 - Full 3-statement model: Income Statement, Balance Sheet, Cash Flow Statement (2019–2023)
 - Horizontal analysis (year-over-year % change) and vertical analysis (common-size statements)
 - 20+ financial ratios across profitability, liquidity, efficiency, solvency, and market categories
-- Ratio interpretation guide with benchmarks and trend commentary
 - Pivot table and interactive dashboard summarising the five-year trend
 - Automated charts driven directly from the underlying data
 
@@ -27,24 +26,18 @@ Synthetic financial data built to simulate a mid-sized company over a five-year 
 - Leverage increased materially: the debt-to-equity ratio climbed from 0.85x to 1.60x, and interest coverage collapsed from 5.75x to 0.88x — meaning operating income could no longer comfortably cover interest expense by 2023
 - Overall, the analysis tells a "growth-without-health" story: top-line expansion masked eroding margins, a widening reliance on debt, and a cash position under real strain
 
-## 🚀 How to Use
-1. Download `Novatech_Case_Study.xlsx`
-2. Open in Microsoft Excel (2016 or later recommended)
-3. Start on the **Novatech** tab for the raw three statements
-4. Review **Horizontal Analysis** and **Vertical Analysis** for year-over-year and common-size trends
-5. Check the **Ratios** tab (with the **General Ratio interpretation** tab as a reference guide) for the full ratio breakdown
-6. Explore the **Pivot Table** and **Dashboard** tabs for the summarised, chart-driven view
-
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](https://github.com/user-attachments/assets/13367225-c449-45bb-843d-aeda112699d9).
+
 
 ### Income Statement
-![Income Statement](screenshots/income_statement.png)
+![Income Statement](https://github.com/user-attachments/assets/5ad37a46-8be1-4ff6-ac81-6c60e6cdbbb6).
+
 
 ### Ratio Analysis
-![Ratios](screenshots/ratios.png)
+![Ratios](https://github.com/user-attachments/assets/3f93bf1a-09d9-401d-a642-8250ab244e9a).
 
 ---
 *Built by Emmanuel Sekyere*
